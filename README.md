@@ -106,14 +106,6 @@ The generated sample dataset includes the following columns:
 7. Plot sprint count by position.
 8. Generate a randomized sample dataset and visualize sprint count against distance covered.
 
-## 📷 Project Preview
-
-After running the code, save your charts in an `images/` directory and add previews here. For example:
-
-```markdown
-![Sprint Count by Position](images/sprint-count-by-position.png)
-![Sprint Count vs Distance Covered](images/sprint-vs-distance.png)
-```
 
 ## ⚠️ Notes & Limitations
 
